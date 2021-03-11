@@ -13,7 +13,7 @@ Anciens propriétaires du site (et anciens présidents de l’AIPL) :
 Propriétaires actuels : le bureau de l’AIPL élu en juillet 2018 et le webmestre - administrateur
 
 | ---                                             | ---                                                                       |
-| Sophie Saffi (présidente)                       | [saffisophie@gmail.com](mailto:saffisophie@gmail.com)                     |
+| Sophie Saffi (présidente)                       | [sophie.saffi@univ-amu.fr](mailto:sophie.saffi@univ-amu.fr)                     |
 | Patrick Duffley (vice-président Amérique)       | [Patrick.Duffley@lli.ulaval.ca](mailto:Patrick.Duffley@lli.ulaval.ca)     |
 | Alberto Manco (vice-président Europe)           | [albertomanco@unior.it](mailto:albertomanco@unior.it)                     |
 | Virginie Culoma Sauva (trésorière)              | [virginie.CULOMA@univ-amu.fr](mailto:virginie.CULOMA@univ-amu.fr)         |
