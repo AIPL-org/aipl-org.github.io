@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Accueil
+title: AIPL
 ---
 
 ## BIENVENUE SUR LE SITE-BLOGUE DE L'AIPL!
 
 Vous vous trouvez sur le site-blogue de l'Association Internationale de Psychomécanique du Langage (AIPL).
 
-La psychomécanique du langage a été découverte par le linguiste français Gustave Guillaume (1883-1960) à une époque où l'on ne parlait pas encore de "constructivisme" dans les sciences humaines. Aussi peut-on dire que la psychomécanique constitue un constructivisme avant la lettre.
+La psychomécanique du langage a été découverte par le linguiste français Gustave Guillaume (1883-1960) à une époque où l'on ne parlait pas encore de "constructivisme" dans les sciences humaines. Aussi peut-on dire que la psychomécanique constitue un *constructivisme avant la lettre*.
 
 Ce qui permet d'affirmer cela, c'est que Guillaume "reconstruit" consciemment, pour en faire un objet de curiosité scientifique, ce qui a été "construit" inconsciemment, pendant des siècles et des millénaires, par les communautés de sujets parlants : le langage humain.
 
