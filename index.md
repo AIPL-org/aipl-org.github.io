@@ -3,6 +3,11 @@ layout: default
 title: AIPL
 ---
 
+## Appel à communication pour le colloque du 9 et 10 juin 2022
+
+L'AIPL organise son XVIe colloque international le 9 et 10 juin, pour plus d'informations veuiller consulter
+l'appel à communication en [français](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022.pdf) ou en [italien](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022_ITA.pdf).
+
 ## BIENVENUE SUR LE SITE-BLOGUE DE L'AIPL!
 
 Vous vous trouvez sur le site-blogue de l'Association Internationale de Psychomécanique du Langage (AIPL).
