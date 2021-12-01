@@ -8,6 +8,12 @@ title: AIPL
 L'AIPL organise son XVIe colloque international le 9 et 10 juin, pour plus d'informations veuiller consulter
 l'appel à communication en [français](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022.pdf) ou en [italien](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022_ITA.pdf).
 
+## NOUVELLE PUBLICATION GUILLAUMIENNE
+
+[Vjekoslav Cosic, LA (PSYCHO)SYSTÉMATIQUE DE GUSTAVE GUILLAUME](https://www.editions-harmattan.fr/livre-la_psycho_systematique_de_gustave_guillaume_vjekoslav_cosic-9782343239231-71373.html)
+
+Quelques extraits dont le sommaire [ici](http://liseuse.harmattan.fr/978-2-343-23923-1).
+
 ## BIENVENUE SUR LE SITE-BLOGUE DE L'AIPL!
 
 Vous vous trouvez sur le site-blogue de l'Association Internationale de Psychomécanique du Langage (AIPL).
