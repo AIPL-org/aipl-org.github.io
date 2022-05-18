@@ -3,7 +3,9 @@ layout: default
 title: AIPL - Actes
 ---
 
-[Sommaire](docs/acts/sommaire.xlsx)
+## Actes
+
+[Sommaire](docs/actes/sommaire.xlsx)
 
 * [Actes du 15e colloque AIPL](docs/actes/15_actes.pdf)
 * [Actes du 14e colloque AIPL](docs/actes/14_actes.pdf)
