@@ -3,10 +3,15 @@ layout: default
 title: AIPL
 ---
 
-## Appel à communication pour le colloque du 9 et 10 juin 2022
-
-L'AIPL organise son XVIe colloque international le 9 et 10 juin, pour plus d'informations veuiller consulter
-l'appel à communication en [français](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022.pdf) ou en [italien](/docs/Appel-à-communication_Colloque_AIPL_09-10juin2022_ITA.pdf).
+> Chères et Chers membre de l'AIPL,
+> 
+> J'ai le regret de vous annoncer le décès de la secrétaire Amérique de l'Association internationale de psychomécanique du langage (AIPL), madame Pierrette Vachon-L'Heureux, le 8 octobre 2022. 
+> Au nom du bureau de l'Association et de tous ses membres, je présente mes sincères condoléances à sa famille et à ses proches, je témoigne de notre profonde compassion. Pierrette était très appréciée de tous les collègues pour son enthousiasme, son dynamisme, son investissement indéfectible à la promotion des théories de Gustave Guillaume. Nous la regrettons tous. 
+> 
+> Un avis de décès du salon funéraire a été mis en ligne : [Pierrette Vachon-L'Heureux - Nécrologie - Avis de décès, Québec - Rechercher (lepinecloutier.com)](https://www.lepinecloutier.com/necrologie-avis-de-deces/68380-pierrette-vachon-l-heureux)
+> 
+> Bien cordialement,
+> Sophie SAFFI, Présidente de l'AIPL
 
 ## NOUVELLE PUBLICATION GUILLAUMIENNE
 
