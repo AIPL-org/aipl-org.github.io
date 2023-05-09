@@ -7,6 +7,7 @@ title: AIPL - Actes
 
 [Sommaire](docs/actes/sommaire.xlsx)
 
+* [Actes du 16e colloque AIPL](docs/actes/16_actes.pdf)
 * [Actes du 15e colloque AIPL](docs/actes/15_actes.pdf)
 * [Actes du 14e colloque AIPL](docs/actes/14_actes.pdf)
 * [Actes du 13e colloque AIPL](docs/actes/13_actes.pdf)
