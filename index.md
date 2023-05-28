@@ -3,15 +3,31 @@ layout: default
 title: AIPL
 ---
 
-> Chères et Chers membre de l'AIPL,
+
+> Chères et Chers membres de l'AIPL,
 > 
-> J'ai le regret de vous annoncer le décès de la secrétaire Amérique de l'Association internationale de psychomécanique du langage (AIPL), madame Pierrette Vachon-L'Heureux, le 8 octobre 2022. 
-> Au nom du bureau de l'Association et de tous ses membres, je présente mes sincères condoléances à sa famille et à ses proches, je témoigne de notre profonde compassion. Pierrette était très appréciée de tous les collègues pour son enthousiasme, son dynamisme, son investissement indéfectible à la promotion des théories de Gustave Guillaume. Nous la regrettons tous. 
+>
 > 
-> Un avis de décès du salon funéraire a été mis en ligne : [Pierrette Vachon-L'Heureux - Nécrologie - Avis de décès, Québec - Rechercher (lepinecloutier.com)](https://www.lepinecloutier.com/necrologie-avis-de-deces/68380-pierrette-vachon-l-heureux)
+> J'ai le plaisir de vous annoncer la parution des Actes du XVIe colloque
+> international de l'AIPL Temporalité et spatialisation : théories et applications
+> que vous pouvez consulter en cliquant sur l'onglet Actes.
+>
+> ![](./img/ouvrage.jpg)
 > 
-> Bien cordialement,
-> Sophie SAFFI, Présidente de l'AIPL
+> Le XVIe colloque international de l’AIPL a donné lieu à de fructueux
+> échanges sur la conception et l’expression linguistique de la temporalité
+> qui sont présentés dans cet ouvrage. La première partie est consacrée aux
+> théories linguistiques de la représentation du temps, la deuxième partie à la
+> chronogenèse guillaumienne appliquée à différents systèmes de langue (allemand,
+> anglais, arabe, espagnol, français, italien, pāli, russe). Les Varia accueillent
+> les articles des doctorants ayant présenté un poster.
+> 
+> Nous rendons hommage avec cette publication à Pierrette Vachon-L’Heureux,
+> secrétaire Amérique de l’AIPL, dont la communauté psychomécanique regrette la
+> disparition.
+> 
+> 
+> Bien cordialement, Sophie SAFFI, Présidente de l'AIPL.
 
 ## NOUVELLE PUBLICATION GUILLAUMIENNE
 
