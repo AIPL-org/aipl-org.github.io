@@ -12,7 +12,7 @@ title: AIPL
 > international de l'AIPL Temporalité et spatialisation : théories et applications
 > que vous pouvez consulter en cliquant sur l'onglet Actes.
 >
-> ![](./img/ouvrage.jpg)
+> <img src="./img/ouvrage.jpg" width="300px"/>
 > 
 > Le XVIe colloque international de l’AIPL a donné lieu à de fructueux
 > échanges sur la conception et l’expression linguistique de la temporalité
