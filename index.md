@@ -3,37 +3,32 @@ layout: default
 title: AIPL
 ---
 
+## Appel à communication
 
-> Chères et Chers membres de l'AIPL,
-> 
->
-> 
-> J'ai le plaisir de vous annoncer la parution des Actes du XVIe colloque
-> international de l'AIPL Temporalité et spatialisation : théories et applications
-> que vous pouvez consulter en cliquant sur l'onglet Actes.
->
-> <img src="./img/ouvrage.jpg" width="300px"/>
-> 
-> Le XVIe colloque international de l’AIPL a donné lieu à de fructueux
-> échanges sur la conception et l’expression linguistique de la temporalité
-> qui sont présentés dans cet ouvrage. La première partie est consacrée aux
-> théories linguistiques de la représentation du temps, la deuxième partie à la
-> chronogenèse guillaumienne appliquée à différents systèmes de langue (allemand,
-> anglais, arabe, espagnol, français, italien, pāli, russe). Les Varia accueillent
-> les articles des doctorants ayant présenté un poster.
-> 
-> Nous rendons hommage avec cette publication à Pierrette Vachon-L’Heureux,
-> secrétaire Amérique de l’AIPL, dont la communauté psychomécanique regrette la
-> disparition.
-> 
-> 
-> Bien cordialement, Sophie SAFFI, Présidente de l'AIPL.
+L’AIPL, en collaboration avec Sorbonne Université Lettres, l’Università degli studi di Napoli
+« L’Orientale » et le Centre Aixois d’Études Romanes (CAER) d’Aix-Marseille Université organise les
+12 et 13 juin 2025 son XVIIe colloque international à Sorbonne Université (Paris), salle des Actes (accès
+54 rue Saint Jacques ou 17 rue de la Sorbonne).
 
-## NOUVELLE PUBLICATION GUILLAUMIENNE
+Les travaux et les échanges porteront sur la conception, la représentation et la réalisation des gestes et
+des mouvements en sciences du langage, dans des approches théoriques et/ou d’application, et se
+répartiront en 9 sessions consacrées à :
 
-[Vjekoslav Cosic, LA (PSYCHO)SYSTÉMATIQUE DE GUSTAVE GUILLAUME](https://www.editions-harmattan.fr/livre-la_psycho_systematique_de_gustave_guillaume_vjekoslav_cosic-9782343239231-71373.html)
+1. Mouvement de pensée et « linguistique de position ».
+2. Mouvements articulatoires : phonologie, submorphologie, motivation du signe.
+3. Verbes de mouvement, onomatopées de mouvement.
+4. Langues des signes, gesticulation co-verbale, prosodie.
+5. Origine du langage, relations entre corps et langage.
+6. Gestes et mouvements dans les BD, les animés et le cinéma : codes gestuels, langage du corps, ressources kinesthésiques.
+7. Neurophysiologie du mouvement.
+8. Applications didactiques.
+9. Psychomotricité.
 
-Quelques extraits dont le sommaire [ici](http://liseuse.harmattan.fr/978-2-343-23923-1).
+Une session de posters est également prévue.
+
+Si vous souhaitez participer au colloque, merci d’adresser par courriel, **avant le 3 février 2025**
+
+[Plus d'informations...](./docs/Appel-à-communication_Colloque_AIPL_juin2025.pdf)
 
 ## BIENVENUE SUR LE SITE-BLOGUE DE L'AIPL!
 
